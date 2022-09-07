@@ -1,4 +1,4 @@
-# print("Hello World! My name is Soso!") 👋
+# print("Hello World! My name is Aki!") 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
